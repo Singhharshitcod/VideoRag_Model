@@ -77,11 +77,5 @@ Step 3: Visualize
 
 Open RAG_MODEL/knowledge_graph.graphml in Gephi to see a visual map of your data.
 
-🔮 Future Roadmap
-[ ] Agentic Workflow: Add an autonomous agent to "audit" the graph and fix incorrect connections.
-
-[ ] Web Search Integration: Allow the graph to expand itself by searching the internet for missing node definitions.
-
-[ ] UI: Build a Streamlit or React frontend for easier interaction.
 
 Created by Harshit Singh
